@@ -1,9 +1,9 @@
 ---
-title: My First Project
+title: Ministry of Statistics and Programme Implementation
 layout: project
-year: 2019
-project-url: https://github.com/academicportfolio/academicportfolio.github.io
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
+year: 2018
+project-url: https://blog.mygov.in/sneak-peak-ministry-of-statistics-and-programme-implementation-mospi/
+excerpt: I developed a data collection system for the Consumer Price Index (CPI) at the Ministry of Statistics and Programme Implementation, which is now used by the Government of India for critical financial discussions and inflation calculations.
 project-image: https://placehold.co/400
 tags: [Kotlin, Jetpack Compose, NodeJS]
 comments: true
