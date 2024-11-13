@@ -39,7 +39,7 @@ collections:
     sort_by: order
   publications:
     output: true
-    sort_by: year
+    sort_by: order
   volunteerexperience:
     output: false
     sort_by: order
