@@ -5,6 +5,7 @@ excerpt: Explores the core principles, practical steps, and common pitfalls to w
 pub-image: https://placehold.co/600x300
 pub-url: https://www.datasciencecentral.com/best-practices-for-structuring-large-datasets-in-retrieval-augmented-generation-rag/
 comments: true
+order: 3
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.

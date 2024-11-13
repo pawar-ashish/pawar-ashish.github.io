@@ -98,7 +98,7 @@ layout: default
 <!-- PUBLICATIONS -->
 <div class="ap-block">
   <p class="ap-subtitle">{{site.collection_option['publications']['label']}}</p>
-  {% for publication in site.publications reversed %}
+  {% for publication in site.publications %}
   <div class="ap-publication">
     <a class="ap-publication-title" href="{{publication.pub-url}}"
       >{{publication.title}}</a

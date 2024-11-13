@@ -5,6 +5,7 @@ excerpt: After studying and analyzing various previous works in automating the t
 pub-image: https://placehold.co/600x300
 pub-url: https://arxiv.org/abs/2111.02604
 comments: true
+order: 6
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
