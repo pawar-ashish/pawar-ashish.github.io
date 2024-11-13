@@ -1,5 +1,5 @@
 ---
-title: The One-Shot Generalization Paradox\: Why Generative AI Struggles With New Information
+title: The One-Shot Generalization Paradox Why Generative AI Struggles With New Information
 year: Hackernoon (Chosen as Top Story)
 excerpt: Learn why GenAI models fail with new information, the 'One-Shot Generalization Paradox,' and what future AI research holds for overcoming this challenge.
 pub-image: https://placehold.co/600x300
