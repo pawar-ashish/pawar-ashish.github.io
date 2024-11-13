@@ -32,7 +32,7 @@ collections:
     output: false
     sort_by: order
   projects:
-    output: true
+    output: false
     sort_by: year
   skills:
     output: false
