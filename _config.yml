@@ -57,22 +57,22 @@ collection_option:
     visibility: true
   education:
     label: Education
-    visibility: true
+    visibility: false
   projects:
-    label: Projects
+    label: Impactful Projects
     visibility: true
   skills:
     label: Technical Skills
-    visibility: true
+    visibility: false
   publications:
     label: Publications
     visibility: true
   volunteerexperience:
-    label: Volunteer Experience
+    label: Talks & Judging
     visibility: true
   certifications:
     label: Certifications
-    visibility: true
+    visibility: false
   achievements:
     label: Achievements
     visibility: true
