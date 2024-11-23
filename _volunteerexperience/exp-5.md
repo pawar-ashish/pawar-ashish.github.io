@@ -1,8 +1,8 @@
 ---
-title: Editorial Review Board
-institute: International Journal of Intelligent Information Technologies
-institute-url: https://www.igi-global.com/journals/open-access/reviewers/international-journal-intelligent-information-technologies/1089
-duration: Journal
-excerpt: "Review submissions for the journal"
+title: Hackathon Judge
+institute: Hack OHI/O
+institute-url: https://hack.osu.edu/hack12/
+duration: Columbus, OH
+excerpt: "Sponsors: Intel, Honda, Deloitte, First Energy, Union Home, ..."
 order: 5
 ---

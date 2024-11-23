@@ -1,8 +1,8 @@
 ---
 title: Hackathon Judge
-institute: Hack This Fall
-institute-url: https://hackathon.hackthisfall.tech/virtual
-duration: Virtual
-excerpt: "Sponsors: Github, Devfolio, Postman, Google for Developers, MongoDb, Databricks, Okta, ..."
+institute: AI/ATL @ Georgia Tech
+institute-url: https://www.aiatl.io/
+duration: Atlanta, GA
+excerpt: "Sponsors: Google Cloud, Anthropic, Microsoft, MongoDb, Databricks, Cloudflare, Figma, ..."
 order: 3
 ---

@@ -1,9 +1,9 @@
 ---
-title: "Best practices for structuring large datasets in Retrieval-Augmented Generation (RAG)"
-year: Data Science Central
-excerpt: Explores the core principles, practical steps, and common pitfalls to watch out for when structuring large datasets to get the most out of RAG.
+title: "Character-Level vs. Word-Level RNNs: The Ultimate Face-Off in Text Generation"
+year: Medium
+excerpt: A nerdy debate between character-level and word-level RNNs.
 pub-image: https://placehold.co/600x300
-pub-url: https://www.datasciencecentral.com/best-practices-for-structuring-large-datasets-in-retrieval-augmented-generation-rag/
+pub-url: https://medium.com/@pawar-ashish/character-level-vs-word-level-rnns-the-ultimate-face-off-in-text-generation-e303cdaa08a8
 comments: true
 order: 3
 ---

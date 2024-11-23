@@ -1,8 +1,8 @@
 ---
 title: Hackathon Judge
-institute: Hack OHI/O
-institute-url: https://hack.osu.edu/hack12/
-duration: Columbus, OH
-excerpt: "Sponsors: Intel, Honda, Deloitte, First Energy, Union Home, ..."
+institute: Hack This Fall
+institute-url: https://hackathon.hackthisfall.tech/virtual
+duration: Virtual
+excerpt: "Sponsors: Github, Devfolio, Postman, Google for Developers, MongoDb, Databricks, Okta, ..."
 order: 4
 ---

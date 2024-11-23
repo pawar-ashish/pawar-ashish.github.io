@@ -1,9 +1,9 @@
 ---
-title: "Optimizing Bayesian acquisition functions in Gaussian Processes"
-year: Arxiv
-excerpt: This paper analyzes different acquistion functions like Maximum Probability of Improvement and Expected Improvement and various optimizers like L-BFGS and TNC to optimize the acquisitions functions for finding the next sampling point.
+title: "onCreate() vs onStart() in Android: In-depth analysis"
+year: Medium
+excerpt: Delves into the differences between these methods and provides a concise answer to the question at hand with a comprehensive analysis.
 pub-image: https://placehold.co/600x300
-pub-url: https://arxiv.org/abs/2111.04930
+pub-url: https://medium.com/@pawar-ashish/oncreate-vs-onstart-in-android-in-depth-analysis-6b27661958d0
 comments: true
 order: 5
 ---
