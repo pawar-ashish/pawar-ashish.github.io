@@ -65,7 +65,7 @@ collection_option:
     label: Technical Skills
     visibility: false
   publications:
-    label: Publications
+    label: Publications & Writing
     visibility: true
   volunteerexperience:
     label: Talks & Judging

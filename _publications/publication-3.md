@@ -1,9 +1,9 @@
 ---
-title: "Mode Collapse in GANs: Can We Ever Completely Eliminate This Problem?"
-year: DZone
-excerpt: Mode collapse makes GANs produce repetitive outputs. Solutions exist, but none fully solve it. Curious how researchers are tackling this? Read on!
+title: "Why Isn’t Generative AI Good at Doing Two Things at Once?"
+year: TowardsAI.net
+excerpt: Why can’t we have one cohesive AI system that flips seamlessly between different modes of understanding and generation, like we humans do?
 pub-image: https://placehold.co/600x300
-pub-url: https://dzone.com/articles/mode-collapse-in-gans
+pub-url: https://pub.towardsai.net/why-isnt-generative-ai-good-at-doing-two-things-at-once-57459df12c21
 comments: true
 order: 3
 ---
