@@ -22,6 +22,9 @@ social:
   twitter:
     visibility: false
     handle: arnobdotme
+  medium:
+    visibility: true
+    handle: pawar-ashish
 
 # Collections
 collections:
