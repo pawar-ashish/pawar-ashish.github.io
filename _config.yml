@@ -25,6 +25,9 @@ social:
   medium:
     visibility: true
     handle: pawar-ashish
+  hackernoon:
+    visibility: true
+    handle: pawarashishanil
 
 # Collections
 collections:

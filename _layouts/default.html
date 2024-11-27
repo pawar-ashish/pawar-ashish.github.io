@@ -68,6 +68,14 @@
               >Medium</a
             >
           </li>
+          {% endif %} {% if site.social['hackernoon']['visibility'] == true %}
+          <li>
+            <a
+              href="https://medium.com/@{{site.social['hackernoon']['handle']}}"
+              target="_blank"
+              >Medium</a
+            >
+          </li>
           {% endif %}
         </ul>
       </div>
@@ -126,6 +134,14 @@
             <li>
               <a
                 href="https://medium.com/@{{site.social['medium']['handle']}}"
+                target="_blank"
+                >Medium</a
+              >
+            </li>
+            {% endif %}{% if site.social['hackernoon']['visibility'] == true %}
+            <li>
+              <a
+                href="https://medium.com/@{{site.social['hackernoon']['handle']}}"
                 target="_blank"
                 >Medium</a
               >
