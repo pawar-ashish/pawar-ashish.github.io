@@ -28,6 +28,9 @@ social:
   hackernoon:
     visibility: true
     handle: pawarashishanil
+  google_scholar:
+    visibility: true
+    handle: tN8SVGkAAAAJ
 
 # Collections
 collections:

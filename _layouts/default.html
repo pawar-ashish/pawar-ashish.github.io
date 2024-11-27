@@ -76,6 +76,15 @@
               >Hackernoon</a
             >
           </li>
+          {% endif %} {% if site.social['google_scholar']['visibility'] == true
+          %}
+          <li>
+            <a
+              href="https://scholar.google.com/citations?user={{site.social['google_scholar']['handle']}}"
+              target="_blank"
+              >Google Scholar</a
+            >
+          </li>
           {% endif %}
         </ul>
       </div>
@@ -138,12 +147,21 @@
                 >Medium</a
               >
             </li>
-            {% endif %}{% if site.social['hackernoon']['visibility'] == true %}
+            {% endif %} {% if site.social['hackernoon']['visibility'] == true %}
             <li>
               <a
                 href="https://hackernoon.com/u/{{site.social['hackernoon']['handle']}}"
                 target="_blank"
                 >Medium</a
+              >
+            </li>
+            {% endif %} {% if site.social['google_scholar']['visibility'] ==
+            true %}
+            <li>
+              <a
+                href="https://scholar.google.com/citations?user={{site.social['google_scholar']['handle']}}"
+                target="_blank"
+                >Google Scholar</a
               >
             </li>
             {% endif %}
