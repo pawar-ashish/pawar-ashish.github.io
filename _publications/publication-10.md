@@ -1,9 +1,9 @@
 ---
-title: "Portfolio Management using Deep Reinforcement Learning"
+title: "Auto Tuning of Hadoop and Spark parameters"
 year: Arxiv
-excerpt: This paper provides the conclusion that the proposed portfolio manager with actions centered on weight allocations can surpass the risk-adjusted returns of conventional portfolio managers.
+excerpt: After studying and analyzing various previous works in automating the tuning of these parameters, this paper proposes two algorithms - Grid Search with Finer Tuning and Controlled Random Search.
 pub-image: https://placehold.co/600x300
-pub-url: https://arxiv.org/abs/2405.01604
+pub-url: https://arxiv.org/abs/2111.02604
 comments: true
 order: 10
 ---

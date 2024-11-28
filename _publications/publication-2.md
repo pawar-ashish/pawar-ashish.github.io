@@ -1,9 +1,9 @@
 ---
-title: "Is Bias in AI Quantifiable?"
-year: Hackernoon
-excerpt: Can we really quantify that bias? Is there some magic metric that can definitively tell us how biased an AI is?
+title: "Should Machine Output Qualify for Free Speech Protections?"
+year: Hackernoon <b>(Chosen as Top Story)</b>
+excerpt: Should AI-generated speech enjoy the same legal protections we extend to human expression? Or should AI-generated content fall into its own category altogether, with separate rules?
 pub-image: https://placehold.co/600x300
-pub-url: https://hackernoon.com/is-bias-in-ai-quantifiable
+pub-url: https://hackernoon.com/should-machine-output-qualify-for-free-speech-protections
 comments: true
 order: 2
 ---

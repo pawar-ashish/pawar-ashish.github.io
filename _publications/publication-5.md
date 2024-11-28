@@ -1,9 +1,9 @@
 ---
-title: "Character-Level vs. Word-Level RNNs: The Ultimate Face-Off in Text Generation"
-year: Medium
-excerpt: A nerdy debate between character-level and word-level RNNs.
+title: "Mode Collapse in GANs: Can We Ever Completely Eliminate This Problem?"
+year: DZone
+excerpt: Mode collapse makes GANs produce repetitive outputs. Solutions exist, but none fully solve it. Curious how researchers are tackling this? Read on!
 pub-image: https://placehold.co/600x300
-pub-url: https://medium.com/@pawar-ashish/character-level-vs-word-level-rnns-the-ultimate-face-off-in-text-generation-e303cdaa08a8
+pub-url: https://dzone.com/articles/mode-collapse-in-gans
 comments: true
 order: 5
 ---
