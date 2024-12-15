@@ -1,9 +1,9 @@
 ---
-title: "Best practices for structuring large datasets in Retrieval-Augmented Generation (RAG)"
-year: Data Science Central
-excerpt: Explores the core principles, practical steps, and common pitfalls to watch out for when structuring large datasets to get the most out of RAG.
+title: "Why Isn’t Generative AI Good at Doing Two Things at Once?"
+year: TowardsAI.net
+excerpt: Why can’t we have one cohesive AI system that flips seamlessly between different modes of understanding and generation, like we humans do?
 pub-image: https://placehold.co/600x300
-pub-url: https://www.datasciencecentral.com/best-practices-for-structuring-large-datasets-in-retrieval-augmented-generation-rag/
+pub-url: https://pub.towardsai.net/why-isnt-generative-ai-good-at-doing-two-things-at-once-57459df12c21
 comments: true
 order: 7
 ---

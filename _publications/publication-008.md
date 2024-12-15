@@ -1,9 +1,9 @@
 ---
-title: "onCreate() vs onStart() in Android: In-depth analysis"
-year: Medium
-excerpt: Delves into the differences between these methods and provides a concise answer to the question at hand with a comprehensive analysis.
+title: "Mode Collapse in GANs: Can We Ever Completely Eliminate This Problem?"
+year: DZone
+excerpt: Mode collapse makes GANs produce repetitive outputs. Solutions exist, but none fully solve it. Curious how researchers are tackling this? Read on!
 pub-image: https://placehold.co/600x300
-pub-url: https://medium.com/@pawar-ashish/oncreate-vs-onstart-in-android-in-depth-analysis-6b27661958d0
+pub-url: https://dzone.com/articles/mode-collapse-in-gans
 comments: true
 order: 8
 ---

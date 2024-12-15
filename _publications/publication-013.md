@@ -1,11 +1,11 @@
 ---
-title: "Character-Level vs. Word-Level RNNs: The Ultimate Face-Off in Text Generation"
-year: Medium
-excerpt: A nerdy debate between character-level and word-level RNNs.
+title: "Auto Tuning of Hadoop and Spark parameters"
+year: Arxiv
+excerpt: After studying and analyzing various previous works in automating the tuning of these parameters, this paper proposes two algorithms - Grid Search with Finer Tuning and Controlled Random Search.
 pub-image: https://placehold.co/600x300
-pub-url: https://medium.com/@pawar-ashish/character-level-vs-word-level-rnns-the-ultimate-face-off-in-text-generation-e303cdaa08a8
+pub-url: https://arxiv.org/abs/2111.02604
 comments: true
-order: 9
+order: 13
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.

@@ -1,9 +1,9 @@
 ---
-title: "Is Bias in AI Quantifiable?"
-year: Hackernoon
-excerpt: Can we really quantify that bias? Is there some magic metric that can definitively tell us how biased an AI is?
+title: "Here’s the one thing you should never outsource to an AI model"
+year: VentureBeat
+excerpt: Let me break down why over-reliance on gen AI in R&D could be innovation’s Achilles’ heel.
 pub-image: https://placehold.co/600x300
-pub-url: https://hackernoon.com/is-bias-in-ai-quantifiable
+pub-url: https://venturebeat.com/ai/heres-the-one-thing-you-should-never-outsource-to-an-ai-model/
 comments: true
 order: 3
 ---

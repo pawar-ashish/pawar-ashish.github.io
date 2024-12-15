@@ -1,9 +1,9 @@
 ---
-title: "Why Isn’t Generative AI Good at Doing Two Things at Once?"
-year: TowardsAI.net
-excerpt: Why can’t we have one cohesive AI system that flips seamlessly between different modes of understanding and generation, like we humans do?
+title: "Sequence Length Limitation in Transformer Models: How Do We Overcome Memory Constraints?"
+year: Hackernoon
+excerpt: Transformers are limited by sequence length due to quadratic scaling. Explore solutions like sparse attention, low-rank approximations, and spectral methods.
 pub-image: https://placehold.co/600x300
-pub-url: https://pub.towardsai.net/why-isnt-generative-ai-good-at-doing-two-things-at-once-57459df12c21
+pub-url: https://hackernoon.com/sequence-length-limitation-in-transformer-models-how-do-we-overcome-memory-constraints
 comments: true
 order: 4
 ---

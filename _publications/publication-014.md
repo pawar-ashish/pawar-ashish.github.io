@@ -1,11 +1,11 @@
 ---
-title: "Character-Level vs. Word-Level RNNs: The Ultimate Face-Off in Text Generation"
-year: Medium
-excerpt: A nerdy debate between character-level and word-level RNNs.
+title: "Portfolio Management using Deep Reinforcement Learning"
+year: Arxiv
+excerpt: This paper provides the conclusion that the proposed portfolio manager with actions centered on weight allocations can surpass the risk-adjusted returns of conventional portfolio managers.
 pub-image: https://placehold.co/600x300
-pub-url: https://medium.com/@pawar-ashish/character-level-vs-word-level-rnns-the-ultimate-face-off-in-text-generation-e303cdaa08a8
+pub-url: https://arxiv.org/abs/2405.01604
 comments: true
-order: 9
+order: 14
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
