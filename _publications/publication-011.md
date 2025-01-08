@@ -1,9 +1,9 @@
 ---
-title: "onCreate() vs onStart() in Android: In-depth analysis"
+title: "Character-Level vs. Word-Level RNNs: The Ultimate Face-Off in Text Generation"
 year: Medium
-excerpt: Delves into the differences between these methods and provides a concise answer to the question at hand with a comprehensive analysis.
+excerpt: A nerdy debate between character-level and word-level RNNs.
 pub-image: https://placehold.co/600x300
-pub-url: https://medium.com/@pawar-ashish/oncreate-vs-onstart-in-android-in-depth-analysis-6b27661958d0
+pub-url: https://medium.com/@pawar-ashish/character-level-vs-word-level-rnns-the-ultimate-face-off-in-text-generation-e303cdaa08a8
 comments: true
 order: 11
 ---

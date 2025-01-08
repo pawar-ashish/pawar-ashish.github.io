@@ -1,11 +1,11 @@
 ---
-title: "Optimizing Bayesian acquisition functions in Gaussian Processes"
+title: "Auto Tuning of Hadoop and Spark parameters"
 year: Arxiv
-excerpt: This paper analyzes different acquistion functions like Maximum Probability of Improvement and Expected Improvement and various optimizers like L-BFGS and TNC to optimize the acquisitions functions for finding the next sampling point.
+excerpt: After studying and analyzing various previous works in automating the tuning of these parameters, this paper proposes two algorithms - Grid Search with Finer Tuning and Controlled Random Search.
 pub-image: https://placehold.co/600x300
-pub-url: https://arxiv.org/abs/2111.04930
+pub-url: https://arxiv.org/abs/2111.02604
 comments: true
-order: 14
+order: 15
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.

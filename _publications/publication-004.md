@@ -1,9 +1,9 @@
 ---
-title: "Sequence Length Limitation in Transformer Models: How Do We Overcome Memory Constraints?"
+title: "Whisper Wars: Will AI Prompts Become the Secret Recipes of the Future?"
 year: Hackernoon
-excerpt: Transformers are limited by sequence length due to quadratic scaling. Explore solutions like sparse attention, low-rank approximations, and spectral methods.
+excerpt: "As businesses recognize the value of optimized AI prompts, a new debate emerges: can prompts become trade secrets, and what does that mean for innovation?"
 pub-image: https://placehold.co/600x300
-pub-url: https://hackernoon.com/sequence-length-limitation-in-transformer-models-how-do-we-overcome-memory-constraints
+pub-url: https://hackernoon.com/whisper-wars-will-ai-prompts-become-the-secret-recipes-of-the-future
 comments: true
 order: 4
 ---

@@ -1,11 +1,11 @@
 ---
-title: "Optimizing Bayesian acquisition functions in Gaussian Processes"
+title: "Portfolio Management using Deep Reinforcement Learning"
 year: Arxiv
-excerpt: This paper analyzes different acquistion functions like Maximum Probability of Improvement and Expected Improvement and various optimizers like L-BFGS and TNC to optimize the acquisitions functions for finding the next sampling point.
+excerpt: This paper provides the conclusion that the proposed portfolio manager with actions centered on weight allocations can surpass the risk-adjusted returns of conventional portfolio managers.
 pub-image: https://placehold.co/600x300
-pub-url: https://arxiv.org/abs/2111.04930
+pub-url: https://arxiv.org/abs/2405.01604
 comments: true
-order: 14
+order: 16
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.

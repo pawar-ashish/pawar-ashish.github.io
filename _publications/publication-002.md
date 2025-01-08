@@ -1,9 +1,9 @@
 ---
-title: "Should Machine Output Qualify for Free Speech Protections?"
+title: "Ella Isn’t Real, But She Feels Real: The Empathic AI Leasing Agent in Our Looming Bot First Economy"
 year: Hackernoon <b>(Chosen as Top Story)</b>
-excerpt: Should AI-generated speech enjoy the same legal protections we extend to human expression? Or should AI-generated content fall into its own category altogether, with separate rules?
+excerpt: Discover how AI assistants like Ella are transforming customer interactions with human-like precision, the tech behind them, and what we may lose in this shift.
 pub-image: https://placehold.co/600x300
-pub-url: https://hackernoon.com/should-machine-output-qualify-for-free-speech-protections
+pub-url: https://hackernoon.com/ella-isnt-real-but-she-feels-real-the-empathic-ai-leasing-agent-in-our-looming-bot-first-economy
 comments: true
 order: 2
 ---

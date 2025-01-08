@@ -1,9 +1,9 @@
 ---
-title: "Outsmarting Big Data: How Small Businesses Can Compete in AI Without Mega-Datasets"
-year: AI Advances
-excerpt: Let’s face it — when it comes to AI, it often feels like small businesses are part of a lopsided fight. How can small business compete?
+title: "Here’s the one thing you should never outsource to an AI model"
+year: VentureBeat
+excerpt: Let me break down why over-reliance on gen AI in R&D could be innovation’s Achilles’ heel.
 pub-image: https://placehold.co/600x300
-pub-url: https://ai.gopubby.com/outsmarting-big-data-how-small-businesses-can-compete-in-ai-without-mega-datasets-388f5cbb0bed
+pub-url: https://venturebeat.com/ai/heres-the-one-thing-you-should-never-outsource-to-an-ai-model/
 comments: true
 order: 5
 ---

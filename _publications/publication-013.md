@@ -1,9 +1,9 @@
 ---
-title: "Auto Tuning of Hadoop and Spark parameters"
-year: Arxiv
-excerpt: After studying and analyzing various previous works in automating the tuning of these parameters, this paper proposes two algorithms - Grid Search with Finer Tuning and Controlled Random Search.
+title: "onCreate() vs onStart() in Android: In-depth analysis"
+year: Medium
+excerpt: Delves into the differences between these methods and provides a concise answer to the question at hand with a comprehensive analysis.
 pub-image: https://placehold.co/600x300
-pub-url: https://arxiv.org/abs/2111.02604
+pub-url: https://medium.com/@pawar-ashish/oncreate-vs-onstart-in-android-in-depth-analysis-6b27661958d0
 comments: true
 order: 13
 ---

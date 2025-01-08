@@ -1,9 +1,9 @@
 ---
-title: "Is Bias in AI Quantifiable?"
+title: "Sequence Length Limitation in Transformer Models: How Do We Overcome Memory Constraints?"
 year: Hackernoon
-excerpt: Can we really quantify that bias? Is there some magic metric that can definitively tell us how biased an AI is?
+excerpt: Transformers are limited by sequence length due to quadratic scaling. Explore solutions like sparse attention, low-rank approximations, and spectral methods.
 pub-image: https://placehold.co/600x300
-pub-url: https://hackernoon.com/is-bias-in-ai-quantifiable
+pub-url: https://hackernoon.com/sequence-length-limitation-in-transformer-models-how-do-we-overcome-memory-constraints
 comments: true
 order: 6
 ---

@@ -1,9 +1,9 @@
 ---
-title: "Mode Collapse in GANs: Can We Ever Completely Eliminate This Problem?"
-year: DZone
-excerpt: Mode collapse makes GANs produce repetitive outputs. Solutions exist, but none fully solve it. Curious how researchers are tackling this? Read on!
+title: "Is Bias in AI Quantifiable?"
+year: Hackernoon
+excerpt: Can we really quantify that bias? Is there some magic metric that can definitively tell us how biased an AI is?
 pub-image: https://placehold.co/600x300
-pub-url: https://dzone.com/articles/mode-collapse-in-gans
+pub-url: https://hackernoon.com/is-bias-in-ai-quantifiable
 comments: true
 order: 8
 ---

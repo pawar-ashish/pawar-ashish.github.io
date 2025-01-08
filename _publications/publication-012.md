@@ -1,9 +1,9 @@
 ---
-title: "Optimizing Bayesian acquisition functions in Gaussian Processes"
-year: Arxiv
-excerpt: This paper analyzes different acquistion functions like Maximum Probability of Improvement and Expected Improvement and various optimizers like L-BFGS and TNC to optimize the acquisitions functions for finding the next sampling point.
+title: "Best practices for structuring large datasets in Retrieval-Augmented Generation (RAG)"
+year: Data Science Central
+excerpt: Explores the core principles, practical steps, and common pitfalls to watch out for when structuring large datasets to get the most out of RAG.
 pub-image: https://placehold.co/600x300
-pub-url: https://arxiv.org/abs/2111.04930
+pub-url: https://www.datasciencecentral.com/best-practices-for-structuring-large-datasets-in-retrieval-augmented-generation-rag/
 comments: true
 order: 12
 ---

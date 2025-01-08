@@ -1,9 +1,9 @@
 ---
-title: "Why Isn’t Generative AI Good at Doing Two Things at Once?"
-year: TowardsAI.net
-excerpt: Why can’t we have one cohesive AI system that flips seamlessly between different modes of understanding and generation, like we humans do?
+title: "Outsmarting Big Data: How Small Businesses Can Compete in AI Without Mega-Datasets"
+year: AI Advances
+excerpt: Let’s face it — when it comes to AI, it often feels like small businesses are part of a lopsided fight. How can small business compete?
 pub-image: https://placehold.co/600x300
-pub-url: https://pub.towardsai.net/why-isnt-generative-ai-good-at-doing-two-things-at-once-57459df12c21
+pub-url: https://ai.gopubby.com/outsmarting-big-data-how-small-businesses-can-compete-in-ai-without-mega-datasets-388f5cbb0bed
 comments: true
 order: 7
 ---

@@ -1,9 +1,9 @@
 ---
-title: "Best practices for structuring large datasets in Retrieval-Augmented Generation (RAG)"
-year: Data Science Central
-excerpt: Explores the core principles, practical steps, and common pitfalls to watch out for when structuring large datasets to get the most out of RAG.
+title: "Mode Collapse in GANs: Can We Ever Completely Eliminate This Problem?"
+year: DZone
+excerpt: Mode collapse makes GANs produce repetitive outputs. Solutions exist, but none fully solve it. Curious how researchers are tackling this? Read on!
 pub-image: https://placehold.co/600x300
-pub-url: https://www.datasciencecentral.com/best-practices-for-structuring-large-datasets-in-retrieval-augmented-generation-rag/
+pub-url: https://dzone.com/articles/mode-collapse-in-gans
 comments: true
 order: 10
 ---
